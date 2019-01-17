@@ -10,4 +10,4 @@
 * Очень лаконично и по сути (5 ошибок масштабирования) https://ruhighload.com/index.php/2009/04/20/масштабирование-худшие-практики/
 
 ## Magento 2
-* Отличная статья про оптимизацию скорости работы мадженты наhttps://onilab.com/blog/magento-2-performance-speed-optimization-guide/
+* Magento 2 Speed Optimization – The Definitive Guide for 2019 https://onilab.com/blog/magento-2-performance-speed-optimization-guide/
