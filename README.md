@@ -11,3 +11,6 @@
 
 ## Magento 2
 * Magento 2 Speed Optimization – The Definitive Guide for 2019 https://onilab.com/blog/magento-2-performance-speed-optimization-guide/
+
+## Server optimization
+* Swap file resize https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04
