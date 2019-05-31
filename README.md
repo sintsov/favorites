@@ -1,5 +1,8 @@
 # Favorites links
 
+## Архитектура кода
+* Создание архитектуры программы или как проектировать табуретку https://habr.com/ru/post/276593/
+
 ## Laravel
 * Searching models using a where like query in Laravel https://murze.be/searching-models-using-a-where-like-query-in-laravel
 
